@@ -1,4 +1,4 @@
---1
+    --1
 
 CREATE DATABASE lab5;
 --2
